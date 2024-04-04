@@ -6,7 +6,7 @@ This guide will walk you through setting up your local environment for QA testin
 
 Before you begin, make sure you have the following software installed:
 
-- Java 11 or 17
+- Java 17
 - Latest version of Python
 - Visual Studio Code (VS Code)
 - Git
