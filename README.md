@@ -23,6 +23,7 @@ Before you begin, make sure you have the following software installed:
 ## 2: Install Python
 
 1. Download and install the latest version of Python from the official website or your package manager.
+   <br/>
    <a href="https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe">Python Download</a>
    <br/>
    <a href="">Python Installation Documents</a>
