@@ -1,4 +1,4 @@
-# QA Testing Setup Guide
+<h1 align="center">QA Testing Setup Guide - Windows </h1>
 
 This guide will walk you through setting up your local environment for QA testing. Ensure you follow each step carefully.
 
