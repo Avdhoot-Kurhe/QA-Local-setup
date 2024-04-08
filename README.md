@@ -31,12 +31,16 @@ Before you begin, make sure you have the following software installed:
 ## 3: Install Visual Studio Code (VS Code)
 
 1. Download and install Visual Studio Code from the official website or your package manager.
-2. Open VS Code and install any necessary extensions for Java and Python development.
+   </br>
+   <a href="https://code.visualstudio.com/Download">VS-Code Download</a>
+
+3. Open VS Code and install any necessary extensions for Java and Python development.
 
 ## 4: Install Git
 
 1. Download and install Git from the official website or your package manager.
-2. Configure Git with your name and email using the following commands:
+   <a href="https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe">Git Download</a>
+3. Configure Git with your name and email using the following commands:
 ```
 git config --global user.name "Your Name"
 git config --global user.email "your_email@example.com"
@@ -45,6 +49,8 @@ git config --global user.email "your_email@example.com"
 ## 5: Install Gradle
 
 1. Download and install Gradle from the official website or your package manager.
+   </br>
+   <a href="https://services.gradle.org/distributions/gradle-8.7-all.zip">Gradle Download</a>
 2. Ensure Gradle is added to your system PATH.
 
 ## 6: Verify Installations
